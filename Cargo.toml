@@ -1,5 +1,5 @@
 [package]
-name = "volatile"
+name = "volatile-ptr"
 version = "0.1.0"
 authors = ["Daniel Seitz <dnseitz@gmail.com>"]
 description = "Implementation of volatile pointers for I/O device access"
