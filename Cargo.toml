@@ -1,6 +1,7 @@
 [package]
 name = "volatile-ptr"
 version = "0.1.0"
+documentation = "https://docs.rs/volatile-ptr"
 authors = ["Daniel Seitz <dnseitz@gmail.com>"]
 description = "Implementation of volatile pointers for I/O device access"
 repository = "https://github.com/AltOS-Rust/volatile"
